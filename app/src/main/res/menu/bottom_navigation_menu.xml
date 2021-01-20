@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/navigation_idenification"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="Identification" />
+        <item
+            android:id="@+id/navigation_sms"
+            android:icon="@drawable/ic_baseline_qr_code_scanner_24"
+            android:title="Scan QR" />
+        <item
+            android:id="@+id/navigation_track"
+            android:icon="@drawable/ic_baseline_person_pin_circle_24"
+            android:title="Track" />
+    </menu>
+
